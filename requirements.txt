@@ -1,0 +1,10 @@
+matplotlib
+pandas
+scikit_learn
+seaborn
+plotly
+jupyter
+dvc
+mlflow
+xgboost
+cohere
