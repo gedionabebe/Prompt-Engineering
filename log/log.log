@@ -339,3 +339,650 @@ INFO:werkzeug: * Restarting with watchdog (windowsapi)
 INFO:numexpr.utils:NumExpr defaulting to 4 threads.
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\sklearn\\model_selection\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\sklearn\\model_selection\\_split.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\sklearn\\svm\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\pip\\_vendor\\pyparsing.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\pandas\\core\\frame.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\pandas\\core\\arraylike.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\pandas\\core\\generic.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\pandas\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\threadpoolctl.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:33507
+ * Running on http://192.168.206.228:33507
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 14:43:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\pandas\\core\\internals\\construction.py', reloading
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 14:49:47] "[35m[1mPOST /bnewscore HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 14:51:56] "[35m[1mPOST /bnewscore HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\os.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 14:53:23] "[35m[1mPOST /bnewscore HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\sklearn\\utils\\validation.py', reloading
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 14:54:18] "[35m[1mPOST /bnewscore HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\AppData\\Roaming\\Python\\Python39\\site-packages\\IPython\\core\\interactiveshell.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\scipy\\sparse\\compressed.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\scipy\\sparse\\data.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\scipy\\sparse\\_index.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\cohere\\embeddings.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\concurrent\\futures\\_base.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\requests\\sessions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\requests\\adapters.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\urllib3\\connectionpool.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\urllib3\\util\\retry.py', reloading
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\cohere\\generation.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\sklearn\\svm\\_base.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\urllib3\\packages\\six.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\http\\client.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:33507
+ * Running on http://192.168.206.228:33507
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 15:38:16] "[35m[1mPOST /bnewscore HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 15:40:50] "[35m[1mPOST /bnewscore HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\werkzeug\\routing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\werkzeug\\routing\\map.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\werkzeug\\routing\\rules.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\werkzeug\\routing\\converters.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\flask\\json\\provider.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\werkzeug\\exceptions.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 15:45:14] "[35m[1mPOST /bnewscore HTTP/1.1[0m" 500 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 15:48:56] "[35m[1mPOST /bnewscore HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 15:50:14] "POST /bnewscore HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 15:51:05] "POST /bnewscore HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 15:51:26] "POST /bnewscore HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 15:52:45] "POST /bnewscore HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 15:56:34] "POST /bnewscore HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 15:56:49] "POST /bnewscore HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 15:56:57] "POST /bnewscore HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 402 135
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 15:58:40] "[35m[1mPOST /bnewscore HTTP/1.1[0m" 500 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 402 135
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 15:59:34] "[35m[1mPOST /bnewscore HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
