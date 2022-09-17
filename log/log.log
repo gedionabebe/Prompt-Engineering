@@ -986,3 +986,95 @@ INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineerin
 INFO:werkzeug: * Restarting with watchdog (windowsapi)
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 400 171
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 400 171
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:git.cmd:Popen(['git', 'version'], cwd=c:\Users\User\Desktop\Prompt-Engineering\notebooks, universal_newlines=False, shell=None, istream=None)
+DEBUG:git.cmd:Popen(['git', 'version'], cwd=c:\Users\User\Desktop\Prompt-Engineering\notebooks, universal_newlines=False, shell=None, istream=None)
+DEBUG:git.util:Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+DEBUG:git.cmd:Popen(['git', 'version'], cwd=c:\Users\User\Desktop\Prompt-Engineering\notebooks, universal_newlines=False, shell=None, istream=None)
+DEBUG:git.cmd:Popen(['git', 'version'], cwd=c:\Users\User\Desktop\Prompt-Engineering\notebooks, universal_newlines=False, shell=None, istream=None)
+DEBUG:git.util:Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+DEBUG:git.cmd:Popen(['git', 'version'], cwd=c:\Users\User\Desktop\Prompt-Engineering\notebooks, universal_newlines=False, shell=None, istream=None)
+DEBUG:git.cmd:Popen(['git', 'version'], cwd=c:\Users\User\Desktop\Prompt-Engineering\notebooks, universal_newlines=False, shell=None, istream=None)
+DEBUG:git.util:Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /embed HTTP/1.1" 200 None

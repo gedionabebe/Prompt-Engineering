@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/User/Desktop/Prompt-Engineering/notebooks/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: Large language model entity extraction

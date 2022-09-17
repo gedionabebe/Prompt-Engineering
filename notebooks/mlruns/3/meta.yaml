@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/User/Desktop/Prompt-Engineering/notebooks/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: Large language model news item scoring
