@@ -1,3 +1,5 @@
 __pycache__/
 .vscode/
 notebooks/new.ipynb
+scripts/config.py
+

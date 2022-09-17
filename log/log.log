@@ -1,0 +1,341 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:33507
+ * Running on http://127.0.0.1:33507
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 12:43:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 12:43:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 12:49:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 12:51:43] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\requests\\api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 12:53:53] "[35m[1mGET /jdentities HTTP/1.1[0m" 500 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\requests\\sessions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\requests\\adapters.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\cohere\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\cohere\\generation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\cohere\\response.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 12:56:59] "GET /jdentities HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 12:59:24] "[35m[1mPOST /jdentities HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 13:02:03] "POST /jdentities HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 13:03:25] "POST /jdentities HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 13:04:19] "POST /jdentities HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 13:06:30] "GET /jdentities HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\sklearn\\pipeline.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\sklearn\\utils\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\traitlets\\traitlets.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:33507
+ * Running on http://192.168.206.228:33507
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\preprocessor.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 13:34:43] "GET /jdentities HTTP/1.1" 200 -
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 400 171
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 13:35:07] "[35m[1mPOST /jdentities HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 13:36:23] "[35m[1mPOST /jdentities HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /check-api-key HTTP/1.1" 200 14
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.cohere.ai:443
+DEBUG:urllib3.connectionpool:https://api.cohere.ai:443 "POST /generate HTTP/1.1" 200 None
+INFO:werkzeug:127.0.0.1 - - [17/Sep/2022 13:37:06] "POST /jdentities HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\news_score_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc\\repo\\plots\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc\\repo\\stage.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc\\stage\\cache.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc_data\\hashfile\\state.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc\\external_repo.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc_data\\db\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc\\config_schema.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc_objects\\fs\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc_data\\hashfile\\db.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc_data\\db\\local.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc_objects\\db.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc_objects\\fs\\base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc_objects\\fs\\path.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc_objects\\fs\\scheme.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc_objects\\fs\\local.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc_data\\hashfile\\_ignore.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc_data\\hashfile\\cache.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc\\fs\\git.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\voluptuous\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\voluptuous\\schema_builder.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\voluptuous\\validators.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\voluptuous\\util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\voluptuous\\error.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\dvc\\types.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\configobj.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\scmrepo\\base.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\scmrepo\\git\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\scmrepo\\noscm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\scmrepo\\git\\objects.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\diskcache\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\diskcache\\core.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_entity_extraction.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_entity_extraction.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_entity_extraction.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_entity_extraction.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\entity_extraction_api.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\sklearn\\ensemble\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\sklearn\\ensemble\\_forest.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\mlflow\\pipelines\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\mlflow\\client.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\mlflow\\utils\\logging_utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\mlflow\\entities\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\mlflow\\entities\\experiment.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\mlflow\\entities\\_mlflow_object.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\mlflow\\entities\\run_status.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\mlflow\\protos\\service_pb2.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\cohere_news_score.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Python39\\Lib\\site-packages\\numpy\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\data_fetch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\User\\Desktop\\Prompt-Engineering\\scripts\\data_fetch.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:numexpr.utils:NumExpr defaulting to 4 threads.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 458-566-380

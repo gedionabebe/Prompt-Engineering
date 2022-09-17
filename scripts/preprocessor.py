@@ -2,7 +2,8 @@
 def input_preprocessor(data):
     examples=[]
     string_form=""
-    for x in range(data.shape[0]):
+    for x in range(len(data)):
+       
         entities={}
         entities_str="" 
         for i in data['tokens'][x]:
@@ -14,4 +15,4 @@ def input_preprocessor(data):
             entities_str += key+':'+value+"\n"
         examples.append(data['document'][x].replace("\n"," ")+"\n\nout put:" +'\n'+entities_str+'--end--\n')
         string_form = string_form+data['document'][x]+'\n'+entities_str+'--end--\n'
-        return examples
+    return examples

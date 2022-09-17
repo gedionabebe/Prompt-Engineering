@@ -1,4 +1,5 @@
-import cohere
+import cohere,logging
+logging.basicConfig(filename='../log/log.log', filemode='a',encoding='utf-8', level=logging.DEBUG)
 
 def cohere_extractor(api_key,examples,example):
     co = cohere.Client(api_key)
